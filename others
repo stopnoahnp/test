@@ -1,0 +1,10 @@
+INSERT INTO T_1 (...) VALUES (...), (...), (...), (...), ...;
+と
+INSERT INTO T_1 (...) VALUES (...);
+INSERT INTO T_1 (...) VALUES (...);
+INSERT INTO T_1 (...) VALUES (...);
+INSERT INTO T_1 (...) VALUES (...);
+...
+と
+LOAD DATA;
+の性能問題。

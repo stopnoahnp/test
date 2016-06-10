@@ -60,3 +60,6 @@ CentOS 7のシステム管理「systemd」をイチから理解する
 1
 ここが変わったCentOS 7──「新機能の概要とインストール」編
 http://www.atmarkit.co.jp/ait/articles/1511/30/news004.html
+
+
+http://image.itmedia.co.jp/l/im/ait/articles/1410/20/l_hu_tt_jp01s.jpg

@@ -2,6 +2,23 @@ js
   collections
   commons
   libs
+    backbone
+    backbone-localstorage
+    backbone-relational
+    backbone-stickit
+    backbone-validation
+    handlebars
+    jquery
+    jquery-animate-enhanced
+    jquery-extensions
+    jquery-ui
+    qunit
+    qunit-report-junit
+    require
+    requery-i18n
+    text
+    touch-punch
+    underscore
   models
   router
   sandbox

@@ -1,0 +1,8 @@
+handlebars-template
+  dest
+  grunt
+    Gruntfile.js
+    package.json
+    project.json
+  hba
+    aaaa.hba

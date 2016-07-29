@@ -1,0 +1,18 @@
+js
+  collections
+  commons
+  libs
+  models
+  router
+  sandbox
+  template
+  test
+  util
+  views
+  config.js
+  main.js
+  testmain.js
+resource
+  css
+  images
+  scss
